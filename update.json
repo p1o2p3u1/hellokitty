@@ -1,4 +1,27 @@
 {
-	"version": 2,
-	"url": "http://test.nie.netease.com/apps_file/c41d0104002494c05"
+	"version": 3,
+	"url": "http://test.nie.netease.com/apps_file/5d9a610401970afd2",
+	"channels": [
+		{
+			"channel": "Yixin",
+			"title": "",
+			"content": "",
+			"desc": "",
+			"link": ""
+		},
+		{
+			"channel": "Wechat",
+			"title": "",
+			"content": "",
+			"desc": "",
+			"link": ""
+		},
+		{
+			"channel": "Weibo",
+			"title": "",
+			"content": "",
+			"desc": "",
+			"link": ""
+		}
+	]
 }
